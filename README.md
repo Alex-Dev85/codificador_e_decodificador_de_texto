@@ -28,7 +28,7 @@ Por exemplo: "gato" => "gaitober" gaitober" => "gato"
 ### Conteúdos utilizados:
 
 Cursos Alura:
- - Lógica de programação I e II
+ - Lógica de programação
  - HTML5 e CSS3 completo 
  - JavaScript: programando na linguagem da web 
  - Git e Github: controle e compartilhe seu código
