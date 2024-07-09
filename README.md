@@ -2,12 +2,11 @@
 
 # Codificador e Decodificador de Texto
 
-Challenge Oracle ONE Sprint 01: Primeiro desafio de Lógica de Programação responsivo, desenvolvido durante o curso #onenexteducation
 
 ### Sobre o projeto:
 
 
-  >assunto(s): ```html``` | ```css``` | ```javascript``` | ```design responsivo```
+  >assunto(s): ```html``` | ```css``` | ```javascript``` 
   
   
    - Implementação do projeto com HTML, CSS e JavaScript, onde as letras: a, e, i, o e u são convertidas na ordem por: ai, enter, imes, ober e ufat, podendo ser copiado a área onde o texto for codificado.
@@ -28,10 +27,9 @@ Por exemplo: "gato" => "gaitober" gaitober" => "gato"
 ### Conteúdos utilizados:
 
 Cursos Alura:
- - Lógica de programação
+ - Lógica de programação: mergulhe em programação com JavaScript
  - HTML5 e CSS3 completo 
- - JavaScript: programando na linguagem da web 
- - Git e Github: controle e compartilhe seu código
+ - Git e GitHub: compartilhando e colaborando em projetos
  - Alura+: Como um(a) desenvolvedor(a) front-end utiliza o Figma 
 
 ### Aprendi:
@@ -47,7 +45,7 @@ Cursos Alura:
 
 
 
-Além disso, utilizei as ferramentas [Trello](https://trello.com/b/1pQqH1Lq), [Figma](https://www.figma.com/design/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=2-213&t=FdQchudJ8BmAwanz-0) e Discord. Foi incrível me sentir fazendo parte de um time de desenvolvimento. 👩🏻‍💻
+Além disso, utilizei as ferramentas [Trello](https://trello.com/b/1pQqH1Lq), [Figma](https://www.figma.com/design/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=2-213&t=FdQchudJ8BmAwanz-0) e Discord.
 
 Obrigado    <img width="180px" src="https://cursos.alura.com.br/assets/images/certificates/new/logo/oracle-alura.png">
 
