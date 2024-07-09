@@ -1,4 +1,4 @@
-# Alura + Oracle ONE 👩🏻‍💻  
+# Alura + Oracle ONE  
 
 # Codificador e Decodificador de Texto
 
